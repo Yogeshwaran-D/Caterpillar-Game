@@ -7,9 +7,9 @@
 - Score Display: Keep track of your score as you play.
 - Game Over: The game ends if the caterpillar hits the wall.
 ## How to Play
-1 Start the Game: Press SPACE to begin.
-2 Move the Caterpillar: Use the arrow keys to move up, down, left, and right.
-3 Eat Leaves: Navigate the caterpillar to the green leaves to grow in length and increase your score.
-4 Avoid the Walls: Don't let the caterpillar hit the walls or it's game over!
+1. Start the Game: Press SPACE to begin.
+2. Move the Caterpillar: Use the arrow keys to move up, down, left, and right.
+3. Eat Leaves: Navigate the caterpillar to the green leaves to grow in length and increase your score.
+4. Avoid the Walls: Don't let the caterpillar hit the walls or it's game over!
 
 ### Have fun playing the Caterpillar Game! Enjoy the simplicity and challenge yourself to achieve the highest score!
